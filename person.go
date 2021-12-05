@@ -1,5 +1,5 @@
 package PersonSay
 
-func SayHello() string {
+func Hello() string {
 	return "Hello from module go-mod-sayHello"
 }
