@@ -1,5 +1,5 @@
 package PersonSay
 
-func Hello() string {
-	return "Hello There"
+func Hello(name string) string {
+	return "Hello There " + name
 }
