@@ -7,3 +7,6 @@ func Hello(name string) string {
 func AskingAge(name string) string {
 	return "How old are you " + name + "?"
 }
+func NewYear() string {
+	return "Welcome 2024"
+}
